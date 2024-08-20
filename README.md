@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You can contact me by looking up my PGP key with id 92CB337F0D6D7AE3 and using one of the e-mail addresses listed, or by sending a message on bitmessage to BM-2cSmD4X3ihCE1PbicoHBZ42pGmtKJgh7Ec
+You can contact me by looking up my PGP key with id 92CB337F0D6D7AE3 and using one of the e-mail addresses listed, finding me on nostr at npub1ykt7sh4h8ul6p3pzpykx0e3yjhhg35y0gn0c353du6fpyg6ls0qsnkgc9u, or by sending a message on bitmessage to BM-2cSmD4X3ihCE1PbicoHBZ42pGmtKJgh7Ec
 
 <!--
 **tsjk/tsjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
